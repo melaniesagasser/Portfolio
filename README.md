@@ -2,7 +2,7 @@
 
 Welcome to my professional portfolio! Here, you can find an overview of my public projects with writing samples. 
 
-## 📚 Table of Contents
+## Table of Contents
 - [Technical Writing Projects](#technical-writing-projects)
 - [Blogging](#blogging)
 - [Skills](#skills)
@@ -18,7 +18,7 @@ Welcome to my professional portfolio! Here, you can find an overview of my publi
 ***
 
 
-# Blogging
+## Blogging
 
 | Resource Link | Writing Sample | Tools | Project Description | 
 |---|---|---|---|
