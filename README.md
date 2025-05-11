@@ -23,9 +23,9 @@ Welcome to my professional portfolio. Here, you can find an overview of my publi
 
 ## Blogging
 
-| Resource Link | Writing Sample | Tools | Project Description | 
+| Resource Link | Writing Sample (PDF) | Tools | Project Description | 
 |---|---|---|---|
-| 🗿 [Scary Mythological Creatures of the Mayan Culture](https://melmextravel.com/mythological-creatures-of-the-mayan-culture/)(https://www.yoga-vidya.de/service/yoga-vidya-journal/) (Journal 47 2023) | LInk | Wordpress, Canva | A humorous insight into Mayan culture. The German original was published in the [Yoga Vidya Journal No. 47, 2023 (p. 15)](https://www.yoga-vidya.de/service/yoga-vidya-journal/). |
+| 🗿 [Scary Mythological Creatures of the Mayan Culture](https://melmextravel.com/mythological-creatures-of-the-mayan-culture/) | LInk | Wordpress, Canva | A humorous insight into Mayan culture. The German original was published in the [Yoga Vidya Journal No. 47, 2023 (p. 15)](https://www.yoga-vidya.de/service/yoga-vidya-journal/). |
 | 🇲🇽 [How to Celebrate the Day of the Dead in Huaquechula](https://melmextravel.com/how-to-celebrate-day-of-the-dead-in-huaquechula/) | Link | WordPress, Canva | A how-to guide for visitors joining the Day-of-the-Dead festivities in a small town in Mexico. It also gives background information on the Day of the Dead in general. |
 | 🗣️ [25 Colloquial Mexican Spanish Phrases That Make Speaking to Locals More Fun!](https://melmextravel.com/colloquial-mexican-spanish-phrases/)| Link | WordPress, Canva, Google Docs |  |
 | 🌮 [How to Confidently Order Food in a Mexican Restaurant (Cheat Sheet with 60+ Phrases)](https://melmextravel.com/how-to-order-food-in-a-mexican-restaurant/) | Link | WordPress, Canva, GoogleSheets | An overview of common phrases for ordering food in a Mexican restaurant with contextual explanations for the right use. Includes a downloadable vocabulary list. |
