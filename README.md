@@ -16,7 +16,7 @@ Welcome to my professional portfolio. Here, you can find an overview of my publi
 | 📚 [Admin Alerts](https://help.sap.com/docs/successfactors-platform/using-admin-center/admin-alerts) | [Admin Alerts Sample](documents/WritingSample_AdminAlerts.pdf) | Ixiasoft DITA CCMS (XML) | Updated a submap for the Admin Alerts feature that is reused in several guides. My development team provided the framework that was used by other module teams. |
 | 📚 [Using the Check Tool](https://help.sap.com/docs/successfactors-platform/using-check-tool/using-check-tool-to-solve-issues?locale=en-US) | [Check Tool Sample](documents/WritingSample_CheckTool.pdf) | Ixiasoft DITA CCMS (XML) | Updated a submap for the Check Tool feature that is reused in several guides. My development team provided the framework that was used by other module teams. |
 
-* The writing samples contain some of the topics that were exclusively or mostly written by me. Please note that the formatting or display of icons might not be rendered correctly in the PDF.
+<code>*</code> The writing samples contain some of the topics that were exclusively or mostly written by me. Please note that the formatting or display of icons might not be rendered correctly in the PDF.
   
 ***
 
