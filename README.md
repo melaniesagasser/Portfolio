@@ -21,9 +21,9 @@ Welcome to my professional portfolio. Here, you can find an overview of my publi
 ***
 
 
-## Blogging
+## Blogging Projects
 
-| Resource Link | Writing Sample (PDF) | Tools | Project Description | 
+| Resource Link | Writing Sample (PDF) | Tools | Description | 
 |---|---|---|---|
 | 🇲🇽 [How to Celebrate the Day of the Dead in Huaquechula](https://melmextravel.com/how-to-celebrate-day-of-the-dead-in-huaquechula/) | [Writing Sample (Huaquechula)](documents/Day-of-the-DeadHuaquechula.pdf) | WordPress, Canva | A how-to guide for visitors joining the Day-of-the-Dead festivities in a small town in Mexico. It also gives background information on the Day of the Dead in general. |
 | 🚘 [How to Easily Pay Your Vehicle Tax in Puebla, Mexico](https://melmextravel.com/how-to-easily-pay-your-vehicle-tax-in-puebla-mexico/)| [Writing Sample (Vehicle Tax)](documents/VehicleTaxPuebla.pdf) | WordPress, Canva, Google Docs | Step-by-step guide that explains how to pay your vehicle tax in Puebla. |
@@ -34,7 +34,7 @@ Welcome to my professional portfolio. Here, you can find an overview of my publi
 
 ***
 
-# Skills 
+## Skills 
 For the most current overview of my professional skillset, please see 👉 [my LinkedIn profile page](https://www.linkedin.com/in/melaniesagasser/).
 
 
