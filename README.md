@@ -4,7 +4,7 @@ Welcome to my professional portfolio. Here, you can find an overview of my publi
 
 ## Table of Contents
 - [Technical Writing Projects](#technical-writing-projects)
-- [Blogging](#blogging)
+- [Blogging Projects](#blogging)
 - [Skills](#skills)
 
 
@@ -29,13 +29,6 @@ Welcome to my professional portfolio. Here, you can find an overview of my publi
 | 🚘 [How to Easily Pay Your Vehicle Tax in Puebla, Mexico](https://melmextravel.com/how-to-easily-pay-your-vehicle-tax-in-puebla-mexico/)| [Writing Sample (Vehicle Tax)](documents/VehicleTaxPuebla.pdf) | WordPress, Canva, Google Docs | Step-by-step guide that explains how to pay your vehicle tax in Puebla. |
 | 🌮 [How to Confidently Order Food in a Mexican Restaurant (Cheat Sheet with 60+ Phrases)](https://melmextravel.com/how-to-order-food-in-a-mexican-restaurant/) | [Writing Sample (Ordering Food)](documents/OrderFoodMexicanRestaurant.pdf) | WordPress, Canva, GoogleSheets | An overview of common phrases for ordering food in a Mexican restaurant with contextual explanations for the right use. Includes a downloadable vocabulary list. |
 | 🗿 [Scary Mythological Creatures of the Mayan Culture](https://melmextravel.com/mythological-creatures-of-the-mayan-culture/) | [Writing Sample (Mythological Creatures)](documents/ScaryMythologicalCreatures.pdf) | Wordpress, Canva | A humorous insight into Mayan culture. The German original was published in the [Yoga Vidya Journal No. 47, 2023 (p. 15)](https://www.yoga-vidya.de/service/yoga-vidya-journal/). |
-
-
-
-***
-
-## Skills 
-For the most current overview of my professional skillset, please see 👉 [my LinkedIn profile page](https://www.linkedin.com/in/melaniesagasser/).
 
 
 ***
